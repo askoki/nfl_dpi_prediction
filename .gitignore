@@ -1,0 +1,8 @@
+data/*
+data_2020/*
+*.zip
+.idea*
+.ipynb_checkpoints/
+*.h5
+*.png
+*.env
